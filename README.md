@@ -35,12 +35,15 @@ shlack! is a **bullet-heaven roguelite** in a Turkish caricature art style. Boss
 - **Team:** 4 developers, started as a graduation project at İstanbul Bilgi University
 - **Platforms:** Windows, macOS, Linux (Steam), Mobile
 - **Localization:** 7 languages (EN, TR, FR, IT, DE, ES, ES-LATAM)
-
+- **Playtesting:** 100+ external playtesters
 
 ## My Role
 
-<!-- Fill in: e.g. Gameplay Programmer — weapon system, enemy spawning, upgrade selection, UI -->
-**Veysel Aytemür** — Game Developer (Unity / C#)
+**Veysel Aytemür** — Gameplay Programmer (Unity / C#)
+
+- **Weapon system:** auto-firing weapons, projectiles and upgrade paths
+- **Enemy AI:** enemy behaviours and boss fights
+- **Steam integration:** Steamworks setup for the store and demo builds
 
 ## Screenshots
 
