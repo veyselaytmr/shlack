@@ -35,7 +35,7 @@ shlack! is a **bullet-heaven roguelite** in a Turkish caricature art style. Boss
 - **Team:** 4 developers, started as a graduation project at İstanbul Bilgi University
 - **Platforms:** Windows, macOS, Linux (Steam), Mobile
 - **Localization:** 7 languages (EN, TR, FR, IT, DE, ES, ES-LATAM)
-- **Playtesting:** 100+ external playtesters
+
 
 ## My Role
 
